@@ -1,0 +1,9 @@
+#color-letra{
+    color: #f191d9;
+}
+.fondo{
+    background-image: url(Imágenes/Banner-perfil.png);
+}
+.font-face{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
